@@ -1,0 +1,6 @@
+2025-06-17 00:08:51,548 - INFO - [logger.py:38] - Logger initialized. Log file: d:\Java Projects\OS\logs\vehicle_20250617_000851.log
+2025-06-17 00:08:52,140 - INFO - [logger.py:47] - Audio system initialized successfully
+2025-06-17 00:08:52,519 - INFO - [logger.py:47] - Vehicle control system started
+2025-06-17 00:09:33,458 - INFO - [logger.py:47] - Vehicle control system stopped
+2025-06-17 00:09:33,600 - INFO - [logger.py:47] - Audio system cleaned up successfully
+2025-06-17 00:09:33,600 - INFO - [logger.py:47] - Application shutting down
