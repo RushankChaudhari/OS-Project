@@ -1,0 +1,17 @@
+2025-06-19 10:22:48,970 - INFO - [logger.py:38] - Logger initialized. Log file: d:\Java Projects\OS\logs\vehicle_20250619_102248.log
+2025-06-19 10:22:49,583 - INFO - [logger.py:47] - Audio system initialized successfully
+2025-06-19 10:22:50,514 - INFO - [logger.py:47] - Vehicle control system started
+2025-06-19 10:23:58,757 - WARNING - [logger.py:45] - No tracks available
+2025-06-19 10:24:12,579 - INFO - [logger.py:47] - Playing: SquidGame
+2025-06-19 10:24:18,063 - INFO - [logger.py:47] - Media paused
+2025-06-19 10:25:55,726 - INFO - [logger.py:47] - ACC activated
+2025-06-19 10:25:57,119 - INFO - [logger.py:47] - LKA activated
+2025-06-19 10:25:57,162 - INFO - [logger.py:47] - LKA: Correcting steering by -0.10 degrees
+2025-06-19 10:25:59,141 - WARNING - [logger.py:45] - AIRBAG: Deploying airbags for passenger safety!
+2025-06-19 10:25:59,142 - INFO - [logger.py:47] - Activating post-crash safety systems
+2025-06-19 10:25:59,143 - INFO - [logger.py:47] - Hazard lights activated
+2025-06-19 10:25:59,143 - INFO - [logger.py:47] - Doors unlocked for emergency exit
+2025-06-19 10:26:00,294 - INFO - [logger.py:47] - AIRBAG: Resetting airbag system
+2025-06-19 10:26:43,444 - INFO - [logger.py:47] - Vehicle control system stopped
+2025-06-19 10:26:43,588 - INFO - [logger.py:47] - Audio system cleaned up successfully
+2025-06-19 10:26:43,589 - INFO - [logger.py:47] - Application shutting down

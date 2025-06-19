@@ -1,0 +1,14 @@
+2025-06-17 00:09:53,530 - INFO - [logger.py:38] - Logger initialized. Log file: d:\Java Projects\OS\logs\vehicle_20250617_000953.log
+2025-06-17 00:09:54,144 - INFO - [logger.py:47] - Audio system initialized successfully
+2025-06-17 00:09:54,519 - INFO - [logger.py:47] - Vehicle control system started
+2025-06-17 00:10:33,751 - WARNING - [logger.py:45] - AIRBAG: Deploying airbags for passenger safety!
+2025-06-17 00:10:33,752 - INFO - [logger.py:47] - Activating post-crash safety systems
+2025-06-17 00:10:33,752 - INFO - [logger.py:47] - Hazard lights activated
+2025-06-17 00:10:33,753 - INFO - [logger.py:47] - Doors unlocked for emergency exit
+2025-06-17 00:10:34,720 - INFO - [logger.py:47] - AIRBAG: Resetting airbag system
+2025-06-17 00:10:36,025 - INFO - [logger.py:47] - ACC activated
+2025-06-17 00:10:37,349 - INFO - [logger.py:47] - LKA activated
+2025-06-17 00:10:37,349 - INFO - [logger.py:47] - LKA: Correcting steering by -0.10 degrees
+2025-06-17 00:11:06,734 - INFO - [logger.py:47] - Vehicle control system stopped
+2025-06-17 00:11:06,814 - INFO - [logger.py:47] - Audio system cleaned up successfully
+2025-06-17 00:11:06,814 - INFO - [logger.py:47] - Application shutting down
